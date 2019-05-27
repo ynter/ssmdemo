@@ -1,0 +1,11 @@
+.div-table{
+	max-width: 900px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+.div-return {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}

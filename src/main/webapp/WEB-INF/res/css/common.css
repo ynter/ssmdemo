@@ -1,0 +1,10 @@
+body {
+	text-align:center;
+	background-color: #eee;
+}
+
+.form-index {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
